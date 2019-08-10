@@ -1,0 +1,14 @@
+C:\Projetos\ProjetoGit\Rest-ASP-NET\Rest-ASP-NET\Rest-ASP-NET\bin\Debug\netcoreapp2.1\Rest-ASP-NET.deps.json
+C:\Projetos\ProjetoGit\Rest-ASP-NET\Rest-ASP-NET\Rest-ASP-NET\bin\Debug\netcoreapp2.1\Rest-ASP-NET.runtimeconfig.json
+C:\Projetos\ProjetoGit\Rest-ASP-NET\Rest-ASP-NET\Rest-ASP-NET\bin\Debug\netcoreapp2.1\Rest-ASP-NET.runtimeconfig.dev.json
+C:\Projetos\ProjetoGit\Rest-ASP-NET\Rest-ASP-NET\Rest-ASP-NET\bin\Debug\netcoreapp2.1\Rest-ASP-NET.dll
+C:\Projetos\ProjetoGit\Rest-ASP-NET\Rest-ASP-NET\Rest-ASP-NET\bin\Debug\netcoreapp2.1\Rest-ASP-NET.pdb
+C:\Projetos\ProjetoGit\Rest-ASP-NET\Rest-ASP-NET\Rest-ASP-NET\obj\Debug\netcoreapp2.1\Rest-ASP-NET.csprojAssemblyReference.cache
+C:\Projetos\ProjetoGit\Rest-ASP-NET\Rest-ASP-NET\Rest-ASP-NET\obj\Debug\netcoreapp2.1\Rest-ASP-NET.csproj.CoreCompileInputs.cache
+C:\Projetos\ProjetoGit\Rest-ASP-NET\Rest-ASP-NET\Rest-ASP-NET\obj\Debug\netcoreapp2.1\Rest-ASP-NET.RazorAssemblyInfo.cache
+C:\Projetos\ProjetoGit\Rest-ASP-NET\Rest-ASP-NET\Rest-ASP-NET\obj\Debug\netcoreapp2.1\Rest-ASP-NET.RazorAssemblyInfo.cs
+C:\Projetos\ProjetoGit\Rest-ASP-NET\Rest-ASP-NET\Rest-ASP-NET\obj\Debug\netcoreapp2.1\Rest-ASP-NET.AssemblyInfoInputs.cache
+C:\Projetos\ProjetoGit\Rest-ASP-NET\Rest-ASP-NET\Rest-ASP-NET\obj\Debug\netcoreapp2.1\Rest-ASP-NET.AssemblyInfo.cs
+C:\Projetos\ProjetoGit\Rest-ASP-NET\Rest-ASP-NET\Rest-ASP-NET\obj\Debug\netcoreapp2.1\Rest-ASP-NET.RazorTargetAssemblyInfo.cache
+C:\Projetos\ProjetoGit\Rest-ASP-NET\Rest-ASP-NET\Rest-ASP-NET\obj\Debug\netcoreapp2.1\Rest-ASP-NET.dll
+C:\Projetos\ProjetoGit\Rest-ASP-NET\Rest-ASP-NET\Rest-ASP-NET\obj\Debug\netcoreapp2.1\Rest-ASP-NET.pdb
